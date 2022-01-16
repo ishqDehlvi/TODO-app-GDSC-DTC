@@ -6,8 +6,13 @@ Simple ToDp app will help manage your daily tasks and don't forget about importa
 
 This app is developed by (Inzemamul Haq) me on behalf of or Android Study Jam '21'.
 ## Screenshots:
-<img src="#" height="400px"/> <img src="#" height="400px"/>
-<img src="#" height="400px"/> <img src="#" height="400px"/>
+<img src="/screenshots/13.jpg" height="400px"/> <img src="/screenshots/12.jpg" height="400px"/>
+<img src="/screenshots/11.jpg" height="400px"/> <img src="/screenshots/10.jpg" height="400px"/>
+<img src="/screenshots/9.jpg" height="400px"/> <img src="/screenshots/8.jpg" height="400px"/>
+<img src="/screenshots/7.jpg" height="400px"/> <img src="/screenshots/6.jpg" height="400px"/>
+<img src="/screenshots/5.jpg" height="400px"/> <img src="/screenshots/4.jpg" height="400px"/>
+<img src="/screenshots/3.jpg" height="400px"/> <img src="/screenshots/2.jpg" height="400px"/>
+<img src="/screenshots/1.jpg" height="400px"/> 
 
 ## Key features:
 - Modern design
