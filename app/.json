@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051962714396",
+    "project_id": "todo-app-gdsc",
+    "storage_bucket": "todo-app-gdsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051962714396:android:12658f5f8b702eb757f2d9",
+        "android_client_info": {
+          "package_name": "com.gdsc.dtcapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051962714396-c7k3ptk67g7tq5or9b61o7ik5s7jobfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh91wIOjmGllEletA9Vd_Umv20FusBVlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051962714396-c7k3ptk67g7tq5or9b61o7ik5s7jobfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
